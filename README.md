@@ -1,4 +1,4 @@
-# Junit-ISP-Testing for the function: 
+# Junit ISP Testing for the function: 
 ## public static Set setDifference(Set set1, Set set2){ ... }
 
 ### It is about testing in the Java programming language.
